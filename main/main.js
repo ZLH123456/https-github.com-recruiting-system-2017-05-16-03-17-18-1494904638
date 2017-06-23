@@ -3,7 +3,7 @@ module.exports = function main(string a) {
   var b=0
   if(a>9)
   {
-    b+a/10;
+    b+=a/10;
     a=a%10;
     
   }
