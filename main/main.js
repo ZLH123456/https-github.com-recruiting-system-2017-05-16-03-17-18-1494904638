@@ -1,5 +1,5 @@
 module.exports = function main(string a) {
-  //parseInt(a); 
+  parseInt(a); 
   var b=0;
   while(a>0)
   {
