@@ -1,6 +1,6 @@
-module.exports = function main(string a) {
+module.exports = function main(a) {
   parseInt(a); 
-  int b=0;
+  var b=0;
   while(a>0)
   {
     b=b+a%10;
