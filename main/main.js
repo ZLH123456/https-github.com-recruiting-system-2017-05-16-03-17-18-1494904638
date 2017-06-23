@@ -1,6 +1,6 @@
 module.exports = function main(string a) {
   parseInt(a); 
-  var b=0;
+  int b=0;
   while(a>0)
   {
     b+=a/10;
